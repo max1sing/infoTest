@@ -6,7 +6,7 @@
 <li>Riding Bicycles</li>
 <li>Playing Video Games</li>
 </ol>
-<p>I <em>like</em> to visit these sites as hobby-</p>
+<p>I like to visit these sites as hobby-</p>
 <ul>
 <li><a href="https://www.instagram.com/">Instagram</a></li>
 <li><a href="https://www.twitter.com">Twitter</a></li>
