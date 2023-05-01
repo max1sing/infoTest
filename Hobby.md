@@ -17,7 +17,8 @@
 <li><a href="https://www.instagram.com/">Instagram</a></li>
 <li><a href="https://www.twitter.com">Twitter</a></li>
 </ul>
-<p><a href="./README.md">return to home</a></p>
+<p><a href="./README.md">Return to home</a></p>
+  <p><a href="./Skills.md">Go to Skills page</a></p>
 
 </body>
 </html>
