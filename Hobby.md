@@ -19,6 +19,8 @@
 </ul>
 <p><a href="./README.md">Return to home</a></p>
   <p><a href="./Skills.md">Go to Skills page</a></p>
+  <p><a href="./Work.md">Go to Work page</a></p>
+  <p><a href="./Code_sample.md">Go to Code Sample</a></p>
 
 </body>
 </html>
