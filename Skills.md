@@ -1,10 +1,10 @@
 # Skills
 
 ## My coding skills
-1. * *CSS* *
-1. * *C language* *
-1. * *HTML* *
-1. * *Python* *
+1. * *CSS* 
+1. * *C language* 
+1. * *HTML* 
+1. * *Python* 
 
 ## Other skills
 1. **Juggling**
