@@ -1,9 +1,9 @@
 # Work History
 
-## My past jobs-
+## My past jobs
 
 1. Schnucks Markets
-1. Country CLub Car Wash
+1. Country Club Car Wash
 1. Picklemans
 
 ## My experience
