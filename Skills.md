@@ -21,8 +21,11 @@
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>My Skills</h1>
+<p>The skills that I attribute to the class are as follows:</p>
+  <ol>CSS</ol>
+  <ol>HTML</ol>
+  <ol>Python</ol>
 
 </body>
 </html>
