@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<body>
-
+  <head>
 <h1 style="background-color:powderblue;">Hobbies</h1>
-
+  </head>
+  <body>
 <h2>Some of my hobbies include:</h2>
 <ol>
 <li>Ice Skating</li>
@@ -23,5 +23,5 @@
   <p><a href="./Work.md">Go to Work page</a></p>
   <p><a href="./Code_sample.md">Go to Code Sample</a></p>
 
-</body>
+  </body>
 </html>
