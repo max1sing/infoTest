@@ -6,13 +6,13 @@
 
 <h2>Some of my hobbies include:</h2>
 <ol>
-<li>Ice Skating (<a href="https://images.ctfassets.net/ocguej8ubu6o/1Ym7HIo5VqEZEFV1w2CLsk/3e1d5c368a626290f7e7cb639ff8e8c9/bryant-1.jpg?w=1180&amp;q=50">https://images.ctfassets.net/ocguej8ubu6o/1Ym7HIo5VqEZEFV1w2CLsk/3e1d5c368a626290f7e7cb639ff8e8c9/bryant-1.jpg?w=1180&amp;q=50</a>)</li>
+<li>Ice Skating</li>
 <li>Distance Running</li>
 <li>Riding Bicycles</li>
 <li>Playing Video Games</li>
 </ol>
 
-<h3>I like to visit these apps<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Trulli" width="500" height="333"></h3>
+<h3>I like to visit these apps<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Trulli" width="250" height="176"></h3>
   <ul>
 <li><a href="https://www.instagram.com/">Instagram</a></li>
 <li><a href="https://www.twitter.com">Twitter</a></li>
