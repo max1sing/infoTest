@@ -19,7 +19,6 @@
   <p><a href="./Skills.md">Go to Skills page</a></p>
     <p><a href="./Hobby.md">Go to Hobbies page</a></p>
   <p><a href="./Code_sample.md">Go to Code Sample</a></p>    
-    
-    </body>
-    </html>
+   </body>
+   </html>
   
