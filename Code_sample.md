@@ -2,7 +2,7 @@
 <html>
     <head>
 <h1 id="code-sample">Code Sample</h1>
-<h1 id="this-code-sample-was-written-by-me">This code sample was written by me</h1>
+<h2 id="this-code-sample-was-written-by-me">This code sample was written by me</h2>
     </head>
     <body>
         
