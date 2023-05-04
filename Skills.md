@@ -8,10 +8,10 @@
   <body>
 <h2 id="my-coding-skills">My coding skills</h2>
 <ol>
-<li><em>CSS</em></li>
-<li><em>C language</em></li>
-<li><em>HTML</em></li>
-<li><em>Python</em></li>
+<li><i>CSS</i></li>
+<li><i>C language</i></li>
+<li><i>HTML</i></li>
+<li><i>Python</i></li>
 </ol>
 <h2 id="other-skills">Other skills</h2>
 
