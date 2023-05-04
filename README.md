@@ -1,3 +1,12 @@
+<DOCTYPE html>
+  <html>
+    <head>
+<meta charset="UTF-8">
+<title>Final Project</title>
+    </head>
+      <body>
+  
+  
 <h1 id="home-page">Home Page</h1>
 <h1 style="background-color:blue;">This is a heading</h1>
 <h2 id="welcome-my-name-is-max-ising">Welcome, my name is Max Ising</h2>
@@ -10,5 +19,7 @@
 <li><a href="./Work.md">Work History</a></li>
 </ul>
 
-
+      </body>
+  </html>
+      
 
