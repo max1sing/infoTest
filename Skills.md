@@ -5,18 +5,10 @@
 <h1 id="skills">Skills</h1>
 <h2 id="my-coding-skills">My coding skills</h2>
 <ol>
-<li>
 <li><em>CSS</em></li>
-</li>
-<li>
 <li><em>C language</em></li>
-</li>
-<li>
 <li><em>HTML</em></li>
-</li>
-<li>
 <li><em>Python</em></li>
-</li>
 </ol>
 <h2 id="other-skills">Other skills</h2>
 
