@@ -2,7 +2,7 @@
 <html>
     <head>
 <h1 id="code-sample">Code Sample</h1>
-<h2 id="this-code-sample-was-written-by-me">This code sample was written by me</h2>
+<h2 id="this-code-sample-was-written-by-me">This code sample was written by me. It outputs the total price of all the selsected items.</h2>
     </head>
     <body>
         
