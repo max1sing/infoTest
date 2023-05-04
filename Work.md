@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-<h1 id="work-history">Work History</h1>
+  <h1 style="color:blue;">Work History</h1>
   </head>
   <body>
 <h2 id="my-past-jobs">My past jobs</h2>
