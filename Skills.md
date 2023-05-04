@@ -8,17 +8,14 @@
 <li>
 <li><em>CSS</em></li>
 </li>
-<li><ul>
-<li><em>C language</em> </li>
-</ul>
+<li>
+<li><em>C language</em></li>
 </li>
-<li><ul>
-<li><em>HTML</em> </li>
-</ul>
+<li>
+<li><em>HTML</em></li>
 </li>
-<li><ul>
-<li><em>Python</em> </li>
-</ul>
+<li>
+<li><em>Python</em></li>
 </li>
 </ol>
 <h2 id="other-skills">Other skills</h2>
