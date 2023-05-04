@@ -12,7 +12,7 @@
 </ol>
 <h2 id="my-experience">My experience</h2>
 <body>
-  <p style="color:red;">I really enjoyed the time I spent at all of the jobs that I've had over the past couple of years. All of the jobs I worked at were because people I knew had worked for that company. I took pleasure in working for the companies that I worked for and enjoyed making several new friends while I was there. The work force is invloving and makes the summer months not pass as slow as they normally would. I plan on having a new job this summer or possibly an internship!</p>
+  <p style="color:red;">I really enjoyed the time I spent at all of the jobs that I've had over the past couple of years. I started working when I was 16 and have tried to differentiant the jobs I've worked. All of the jobs I worked at were because people I knew had worked for that company. I took pleasure in working for the companies that I worked for and enjoyed making several new friends while I was there. The work force is invloving and makes the summer months not pass as slow as they normally would. I plan on having a new job this summer or possibly an internship!</p>
     </body>
     
 <p><a href="./README.md">Return to home</a></p>
