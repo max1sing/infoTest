@@ -48,7 +48,7 @@
 </table>
 <p><a href="./README.md">Return to home</a></p>
   <p><a href="./Work.md">Go to Work page</a></p>
-  <p><a href="./Hobbies.md">Go to Hobbies page</a></p>
+  <p><a href="./Hobby.md">Go to Hobbies page</a></p>
   <p><a href="./Code_sample.md">Go to Code Sample</a></p>
   </html>
   </head>
