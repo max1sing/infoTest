@@ -23,12 +23,7 @@
 </li>
 </ol>
 <h2 id="other-skills">Other skills</h2>
-<ol>
-<li><strong>Juggling</strong></li>
-<li><strong>Skating</strong></li>
-<li><strong>Diving</strong></li>
-<li><strong>Public Speaking</strong></li>
-</ol>
+
 <table>
   <tr>
     <th>Skills</th>
