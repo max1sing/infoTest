@@ -6,7 +6,7 @@
   <body>
 <h2>Some of my hobbies include:</h2>
 <ol>
-  <li>Ice Skating</b></li>
+  <li><b>Ice Skating</b></li>
   <li><b>Distance Running</b></li>
   <li><b>Riding Bicycles</b></li>
   <li><b>Playing Video Games</b></li>
