@@ -2,7 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
 <h1 id="skills">Skills</h1>
+  </head>
+  <body>
 <h2 id="my-coding-skills">My coding skills</h2>
 <ol>
 <li><em>CSS</em></li>
@@ -38,5 +41,8 @@
   <p><a href="./Work.md">Go to Work page</a></p>
   <p><a href="./Hobby.md">Go to Hobbies page</a></p>
   <p><a href="./Code_sample.md">Go to Code Sample</a></p>
+  
+  </body>
   </html>
-  </head>
+  
+ 
