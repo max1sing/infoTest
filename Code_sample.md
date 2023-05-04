@@ -1,11 +1,17 @@
 <h1 id="code-sample">Code Sample</h1>
 <h1 id="this-code-sample-was-written-by-me">This code sample was written by me</h1>
 services={'Air freshener':1,'Rain repellent':2,'Tire shine':2,'Wax':3,'Vacuum':5}
+
 base_wash=10
+
 total=0
+
 # read service choices
+
 print("What is your desired service?")
+
 service_choice1=input()
+
 service_choice2=input()
 # add 10 into total
 total = total +10
