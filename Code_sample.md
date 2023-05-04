@@ -55,4 +55,7 @@ else:
     exit()</p>
 <p>#print the result<br>print()
 print(&quot;The result is: &quot; + str(total))</p>
-<p><a href="./README.md">return to home page</a></p>
+<p><a href="./README.md">Return to home</a></p>
+  <p><a href="./Skills.md">Go to Skills page</a></p>
+  <p><a href="./Work.md">Go to Work page</a></p>
+  <p><a href="./Hobby.md">Go to Hobbies page</a></p>
