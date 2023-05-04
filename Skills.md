@@ -5,9 +5,8 @@
 <h1 id="skills">Skills</h1>
 <h2 id="my-coding-skills">My coding skills</h2>
 <ol>
-<li><ul>
-<li><em>CSS</em> </li>
-</ul>
+<li>
+<li><em>CSS</em></li>
 </li>
 <li><ul>
 <li><em>C language</em> </li>
