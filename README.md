@@ -1,6 +1,6 @@
 <DOCTYPE html>
   <html>
-    <h1 id="home-page">Home Page</h1>
+    <head><h1 id="home-page">Home Page</h1></head>
       <body>
   
   <h1 style="background-color:blue;">This is a heading</h1>
