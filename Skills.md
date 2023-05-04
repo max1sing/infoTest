@@ -2,8 +2,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-<h1 id="skills">Skills</h1>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table><h1 id="skills">Skills</h1>
 <h2 id="my-coding-skills">My coding skills</h2>
 <ol>
 <li><ul>
