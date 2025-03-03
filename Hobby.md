@@ -17,6 +17,7 @@
   <li>Yes</li>
   <li>Black Sabbath</li>
   <li>Descendents</li>
+  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRKYXwNNcp-JXaA4gH4BO9RrX6RPrXXrvETCwll4P32e5Z64LWETS2TVqUa9xQC2uYZkkmC19BCl3kPYvXNWsGTQjts-lFIJv5eBNNNFk" alt="yes" width="250" height="176">
 </ul>
 
 <h4>I like to visit these apps</h4>
