@@ -9,7 +9,7 @@
 <h2 id="my-coding-skills">My skills</h2>
 <ol>
 <li><i>Javascript</i></li>
-<li><i>Sequel</i></li>
+<li><i>Sql</i></li>
 <li><i>C#</i></li>
 <li><i>Python</i></li>
 <li><i>ArcGIS Pro</i></li>
