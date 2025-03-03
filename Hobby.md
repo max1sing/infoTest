@@ -12,7 +12,14 @@
   <li><b>Hiking</b></li>
 </ol>
 
-<h3>I like to visit these apps</h3>
+<h3>Some of my favorite bands and artists</h3>
+<ul>
+  <li>Yes</li>
+  <li>Black Sabbath</li>
+  <li>Descendents</li>
+</ul>
+
+<h4>I like to visit these apps</h4>
   <ul>
 <li><a href="https://www.instagram.com/">Instagram</a></li>
 <li><a href="https://www.twitter.com">Twitter</a></li>
