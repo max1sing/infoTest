@@ -7,9 +7,9 @@
 <h2>Some of my hobbies include:</h2>
 <ol>
   <li><b>Ice Skating</b></li>
-  <li><b>Distance Running</b></li>
-  <li><b>Riding Bicycles</b></li>
-  <li><b>Playing Video Games</b></li>
+  <li><b>Listening to Music</b></li>
+  <li><b>Biking</b></li>
+  <li><b>Hiking</b></li>
 </ol>
 
 <h3>I like to visit these apps</h3>
