@@ -6,12 +6,13 @@
 <h1 id="skills">Skills</h1>
   </head>
   <body>
-<h2 id="my-coding-skills">My coding skills</h2>
+<h2 id="my-coding-skills">My skills</h2>
 <ol>
-<li><i>CSS</i></li>
-<li><i>C language</i></li>
-<li><i>HTML</i></li>
+<li><i>Javascript</i></li>
+<li><i>Sequel</i></li>
+<li><i>C#</i></li>
 <li><i>Python</i></li>
+<li><i>ArcGIS Pro</i></li>
 </ol>
 <h2 id="other-skills">Other skills</h2>
 
@@ -21,20 +22,16 @@
     <th>Years of Experience</th>
   </tr>
   <tr>
-    <td>Juggling</td>
-    <td>6</td>
-  </tr>
-  <tr>
     <td>Skating</td>
-    <td>13</td>
+    <td>12</td>
   </tr>
   <tr>
-    <td>Diving</td>
+    <td>Guitar</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>Public Speaking</td>
-    <td>2</td>
+    <td>Mountain Biking</td>
+    <td>7</td>
   </tr>
 </table>
     <img src="https://i0.wp.com/cravingtocreate.com/wp-content/uploads/2020/12/ice-fix-1.jpg?fit=4012%2C2679&ssl=1" alt="Girl in a jacket" width="350" height="200">
