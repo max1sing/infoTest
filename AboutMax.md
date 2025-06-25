@@ -21,7 +21,7 @@
   <li>Black Sabbath</li>
   <li>Descendents</li>
   <li>Dead Kennedys</li>
-  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRKYXwNNcp-JXaA4gH4BO9RrX6RPrXXrvETCwll4P32e5Z64LWETS2TVqUa9xQC2uYZkkmC19BCl3kPYvXNWsGTQjts-lFIJv5eBNNNFk" alt="yes" width="250" height="176">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/3/3f/Devo_normal_1978.png/revision/latest/scale-to-width-down/250?cb=20200502181311" alt="yes" width="250" height="176">
 </ul>
 
 <h4>I like to visit these apps</h4>
