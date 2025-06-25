@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-<h1 style="background-color:powderblue;">Hobbies</h1>
+<h1 style="background-color:powderblue;">About Max Ising</h1>
   </head>
   <body>
-<h2>Some of my hobbies include:</h2>
+<h2>Hello I'm Max Ising and these are some things about me.</h2>
+    <h3>
+      Some of my hobbies
+    </h3>
 <ol>
   <li><b>Ice Skating</b></li>
   <li><b>Listening to Music</b></li>
