@@ -40,8 +40,7 @@ print("----")
 
 print("Total price: $"+str(total))
       </body>     
-  <p><a href="./README.md">Home</a></p>
-  <p><a href="./Skills.md">Experience</a></p>
-  <p><a href="./Hobby.md">About Me</a></p>
+  <p><a href="./AboutMax.md">About Me</a></p>
+  <p><a href="./Skills.md">Skills</a></p>
   
     </html>
