@@ -9,9 +9,9 @@
       Some of my hobbies
     </h3>
 <ol>
-  <li><b>Ice Skating</b></li>
+  <li><b>Ice Skating, more specifically playing hockey</b></li>
   <li><b>Listening to Music</b></li>
-  <li><b>Biking</b></li>
+  <li><b>Mountain Biking</b></li>
   <li><b>Hiking</b></li>
 </ol>
 
