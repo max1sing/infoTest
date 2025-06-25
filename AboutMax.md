@@ -8,12 +8,12 @@
     <h3>
       Some of my hobbies
     </h3>
-<ol>
+<ul>
   <li><b>Ice Skating, more specifically playing hockey</b></li>
   <li><b>Listening to Music</b></li>
   <li><b>Mountain Biking</b></li>
   <li><b>Hiking</b></li>
-</ol>
+</ul>
 
 <h3>Some of my favorite bands and artists</h3>
 <ul>
