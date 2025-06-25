@@ -26,10 +26,8 @@
 <li><a href="https://www.twitter.com">Twitter</a></li>
 </ul>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Trulli" width="250" height="176">
-  <p><a href="./README.md">Return to home</a></p>
-  <p><a href="./Code_sample.md">Go to Code Sample page</a></p>
-  <p><a href="./Skills.md">Go to Skills page</a></p>
-  <p><a href="./Work.md">Go to Work page</a></p>
+  <p><a href="./Skills.md">Skills</a></p>
+  <p><a href="./Experience.md">Experience</a></p>
   
   </body>
 </html>
