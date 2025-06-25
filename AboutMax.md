@@ -30,7 +30,7 @@
   <li>Apocalypse Now</li>
   <li>Seinfeld</li>
   <li>The Sopranos</li>
-    <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20356_p_v10_ad.jpg" alt="yes" width="100" height="175"> <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShuy-DgE0rAEZNDSE0Dnt3Ohv7oYFdwn0QBFqQcO3PGOFpzBQTW2Rqg3WamPmFadSWImnL" alt="yes" width="100" height="175">
+    <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20356_p_v10_ad.jpg" alt="yes" width="125" height="175"> <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShuy-DgE0rAEZNDSE0Dnt3Ohv7oYFdwn0QBFqQcO3PGOFpzBQTW2Rqg3WamPmFadSWImnL" alt="yes" width="125" height="175">
 
 </ul>
   <p><a href="./Skills.md">Skills</a></p>
