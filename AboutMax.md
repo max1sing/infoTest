@@ -15,11 +15,12 @@
   <li><b>Hiking</b></li>
 </ul>
 
-<h3>Some of my favorite bands and artists</h3>
+<h3>Some of my favorite bands</h3>
 <ul>
-  <li>Yes</li>
+  <li>DEVO</li>
   <li>Black Sabbath</li>
   <li>Descendents</li>
+  <li>Dead Kennedys</li>
   <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRKYXwNNcp-JXaA4gH4BO9RrX6RPrXXrvETCwll4P32e5Z64LWETS2TVqUa9xQC2uYZkkmC19BCl3kPYvXNWsGTQjts-lFIJv5eBNNNFk" alt="yes" width="250" height="176">
 </ul>
 
