@@ -21,7 +21,7 @@
   <li>Black Sabbath</li>
   <li>Descendents</li>
   <li>Dead Kennedys</li>
-  <img src="https://static.wikia.nocookie.net/logopedia/images/3/3f/Devo_normal_1978.png/revision/latest/scale-to-width-down/250?cb=20200502181311" alt="yes" width="250" height="176"> <img src="https://1000logos.net/wp-content/uploads/2023/05/Dead-Kennedys-Logo.png" alt="yes" width="250" height="176">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/3/3f/Devo_normal_1978.png/revision/latest/scale-to-width-down/250?cb=20200502181311" alt="yes" width="250" height="176"> <img src="https://1000logos.net/wp-content/uploads/2023/05/Dead-Kennedys-Logo.png" alt="yes" width="250" height="250">
 </ul>
 
 <h4>I like to visit these apps</h4>
