@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <p><a href="./AboutMax.md">About Me</a> &nbsp; &nbsp; &nbsp;<a href="./Skills.md">Skills</a></p>
+    <p><a href="./AboutMax.md">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Skills.md">Skills</a></p>
     <head>
 <h2 id="experience">Some of my work experience</h2>
     </head>
