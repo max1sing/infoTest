@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-<h1 id="experience">Some of my work experience</h1>
+<h2 id="experience">Some of my work experience</h2>
     </head>
 <h4>Here is an overall summary of the software I've been using in my career. During my time as an intern for ADB Companies, I've had experience in many types of software and technology that has improved my knowledge base.</h4>
 <body>
