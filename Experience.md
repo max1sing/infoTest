@@ -15,7 +15,8 @@
 ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
 </p>
 <img src="https://github.com/max1sing/max1sing/blob/main/print%20tool.png?raw=true" alt="yes" width="700" height="400">
-<p>This tool was created by someone at ADB and it auto populates the grid layers that are needed for a certain area in a job and I've helped improve the usuablilty of the tool for the engineering team</p>
+<p>Above is a CAD print that I would frequently have to make, and I made it by using an in house tool called the Auto Print Tool in ArcGIS Pro. To run the tool you need to choose your json file, map scale, title,
+defintion query, area of interest field, area of interest attribute, and a grid layer.</p>
 <hr>
 <h4>Render Networks</h4>
 <img src="https://github.com/max1sing/max1sing/blob/main/newrender.png?raw=true" alt="yes" width="700" height="400">
