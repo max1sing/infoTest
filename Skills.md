@@ -8,7 +8,7 @@
   <body>
 <h2 id="my-coding-skills">Some things I learned in school</h2>
 <ul>
-<li>ArcGIS Pro, QGIS, Python, SQL, C++, Java</li>  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_64636a5c446c22391d4ed719e0987cd2/arcgis-pro.png" alt="yes" width="250" height="115"> <img src="https://www.geographyrealm.com/wp-content/uploads/2019/04/qgis-logo.png" alt="yes" width="250" height="125">
+<li>ArcGIS Pro, QGIS, Python, SQL, C++, Java</li>  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_64636a5c446c22391d4ed719e0987cd2/arcgis-pro.png" alt="yes" width="230" height="115"> <img src="https://www.geographyrealm.com/wp-content/uploads/2019/04/qgis-logo.png" alt="yes" width="250" height="125">
 </ul>
 
   </body>
