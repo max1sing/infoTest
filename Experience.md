@@ -9,7 +9,7 @@
 <p>
 <h4 style="color:blue;"> Esri Products: </h4> 
 ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
-<img src="C:\Users\MIsing\OneDrive - ADB Companies\Pictures\Saved Pictures\print tool.png"> 
+<img src="C:\Users\MIsing\OneDrive - ADB Companies\Pictures\Saved Pictures\print tool.png" width="350" title="hover text"> 
 </p>
         
 </body>  
