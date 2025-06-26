@@ -12,6 +12,8 @@
 <hr>
 <h4>ArcGIS Pro and Enterprise</h4>
 <img src="https://github.com/max1sing/max1sing/blob/main/arcpro.png?raw=true" alt="yes" width="700" height="400">
+<p>What got my interested in the GIS field was learning ArcGIS Pro and since I've been in university and at ADB, I've been learning new ways to use this software. During my internship I've been doing database management,
+creating shapefiles, creating databases, and other ways to contribute to our customer's success.</p>
 <hr>
 <h4>Arcpy Tools</h4>
 <img src="https://github.com/max1sing/max1sing/blob/main/print%20tool.png?raw=true" alt="yes" width="700" height="400">
