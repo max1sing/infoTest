@@ -9,6 +9,7 @@
 <h4>Here is an overall summary of the software I've been using in my career. During my time as an intern for ADB Companies, I've had experience in many types of software and technology that has improved my knowledge base.</h4>
 
 <body>
+<hr>
 <h4>ArcGIS Pro and Enterprise</h4>
 <img src="https://github.com/max1sing/max1sing/blob/main/arcpro.png?raw=true" alt="yes" width="700" height="400">
 <hr>
