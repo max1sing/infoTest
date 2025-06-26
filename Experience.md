@@ -21,8 +21,8 @@ ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
 and some of the daily tasks that I would handle with Render would be pushing data and shapefiles into Render from ArcPro and finding segments along the highway that need to be updated or changed.</p>
 <img src="https://github.com/max1sing/max1sing/blob/main/katapult1.png?raw=true" alt="yes" width="600" height="350"> <img src="https://github.com/max1sing/max1sing/blob/main/katapult2.png?raw=true" alt="yes" width="200" height="300">
 <p float="left">
-  <img src="https://github.com/max1sing/max1sing/blob/main/katapult1.png?raw=true" alt="yes" width="600" height="350" />
-  <img src="https://github.com/max1sing/max1sing/blob/main/katapult2.png?raw=true" alt="yes" width="200" height="300" /> 
+  <img src="https://github.com/max1sing/max1sing/blob/main/katapult1.png?raw=true" alt="yes" width="700" height="400" />
+  <img src="https://github.com/max1sing/max1sing/blob/main/katapult2.png?raw=true" alt="yes" width="300" height="400" /> 
 </p>
 </body>  
 
