@@ -5,6 +5,7 @@
   </head>
   <body>
 <h2>Hello I'm Max Ising and I go to the University of Missouri-Columbia.</h2>
+     <img src="https://images.seeklogo.com/logo-png/48/2/university-of-missouri-logo-png_seeklogo-486638.png" alt="yes" width="250" height="175">
   <h2>Here are some things about me.</h2>
     <h3>
       Some of my hobbies
