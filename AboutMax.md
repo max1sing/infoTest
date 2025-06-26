@@ -4,7 +4,7 @@
 <h1 style="background-color:powderblue;">About Max Ising</h1>
   </head>
   <body>
-<h2>Hello I'm Max Ising and these are some things about me.</h2>
+<h2>Hello I'm Max Ising and I go to the University of Missouri-Columbia. Here are some things about me.</h2>
     <h3>
       Some of my hobbies
     </h3>
