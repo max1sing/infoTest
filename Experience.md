@@ -25,7 +25,7 @@ and some of the daily tasks that I would handle with Render would be pushing dat
   <img src="https://github.com/max1sing/max1sing/blob/main/katapult1.png?raw=true" alt="yes" width="700" height="400" />
   <img src="https://github.com/max1sing/max1sing/blob/main/katapult2.png?raw=true" alt="yes" width="250" height="400" /> 
 </p>
-<p>I've used Katapult Pro Maps to design, calibrate, and trace routes for connected fiber within aerial midspans and poles. Using Katapult has allowed me to criticaly think about the way shapes are mapped
+<p>I've used Katapult Pro Maps to design, calibrate, and trace routes for connected fiber within aerial midspans and poles. Using Katapult has allowed me to critically think about the way shapefiles are mapped
 and how important symbology is for engineers and project managers.</p>
 </body>  
 
