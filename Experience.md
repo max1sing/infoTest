@@ -12,7 +12,7 @@
 <hr>
 <h4>ArcGIS Pro and Enterprise</h4>
 <img src="https://github.com/max1sing/max1sing/blob/main/arcpro.png?raw=true" alt="yes" width="700" height="400">
-<p>What got my interested in the GIS field was learning ArcGIS Pro and since I've been in university and at ADB, I've been learning new ways to use this software. During my internship I've been performing daily database management, creating shapefiles/databases, publishing feature services, editing field attributes all in ArcPro to contribute to our customer's success.</p>
+<p>What got my interested in the GIS field was learning ArcGIS Pro and since I've been in university and at ADB, I've been learning new ways to use this software. During my internship I've been performing daily database management, creating shapefiles/databases, publishing feature services, editing field attributes all in ArcPro to contribute to our customer's success. At my university, I've used ArcPro to conduct reaserch and projects to further grow the geospatial knowledge of the earth. Some notable projects throughout my time at university include mapping the Mendenhall Glacier to show the glacier's decay over a ten year span, finding a 200 year pattern of bison in northwest Nebraska, and mapping native trees throughout Missouri using remote sensing.</p>
 <hr>
 <h4>Arcpy Tools</h4>
 <img src="https://github.com/max1sing/max1sing/blob/main/print%20tool.png?raw=true" alt="yes" width="700" height="400">
