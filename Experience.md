@@ -9,7 +9,7 @@
 <p>
 <h4 style="color:blue;"> Esri Products: </h4> 
 ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
-<img src="https://github.com/max1sing/max1sing/blob/main/print%20tool.png?raw=true" alt="yes" width="800" height="500"></p>
+<img src="https://github.com/max1sing/max1sing/blob/main/print%20tool.png?raw=true" alt="yes" width="700" height="400"></p>
         
 </body>  
 <p><a href="./AboutMax.md">About Me</a></p>
