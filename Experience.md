@@ -9,7 +9,7 @@
 <p>
 <h4 style="color:blue;"> Esri Products: </h4> 
 ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
-    <img src="C:\Users\MIsing\OneDrive - ADB Companies\Pictures\Saved Pictures\print tool.png" alt="Description of the image">
+    <p><a href="./print tool.png">print tool export</a></p>
 </p>
         
 </body>  
