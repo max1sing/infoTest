@@ -6,7 +6,7 @@
 <h2 id="this-code-sample-was-written-by-me">Here is an overall summary of the software I've been using in my career.</h2>
 <body>
 <h3>During my time as an intern for ADB Companies, I've had experience in many types of software and technology that has improved my knowledge base.</h3>
-<p> <U>Esri Products:</U> ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
+<p> <u>Esri Products:</u> ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
 </p>
         
 </body>  
