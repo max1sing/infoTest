@@ -7,13 +7,13 @@
   </head>
   <body>
 <h2 id="my-coding-skills">Some of my skills are:</h2>
-<ol>
-<li><i>ArcGIS Pro</i></li>
-<li><i>Python</i></li>
-<li><i>Sql</i></li>
-<li><i>QGIS</i></li>
-<li><i>C++</i></li>
-</ol>
+<ul>
+<li>ArcGIS Pro</li>
+<li>Python</li>
+<li>Sql</li>
+<li>QGIS</li>
+<li>C++</li>
+</ul>
 <h2 id="other-skills">Other skills</h2>
 
 <table>
