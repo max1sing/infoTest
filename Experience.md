@@ -9,7 +9,7 @@
 <p>
 <h4 style="color:blue;"> Esri Products: </h4> 
 ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
-<br>This tool</br>
+<br>This tool was created by someone at ADB and it basically auto populates the grid layers that are needed for a certain area in a job.br>
 
 </p>
 <img src="https://github.com/max1sing/max1sing/blob/main/print%20tool.png?raw=true" alt="yes" width="700" height="400"></p>
