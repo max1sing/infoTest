@@ -20,6 +20,5 @@ ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
 <p>I used Render Networks to change points and polygons to update our field workers in each specific jobs. The project above is our contract for the Ritter Expressway in Arkansas and Oklahoma, 
 and some of the daily tasks that I would handle with Render would be pushing data and shapefiles into Render from ArcPro and finding segments along the highway that need to be updated or changed.</p>
 </body>  
-<p><a href="./AboutMax.md">About Me</a></p>
-<p><a href="./Skills.md">Skills</a></p>
+
   
