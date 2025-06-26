@@ -1,8 +1,8 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-  
+<p><a href="./AboutMax.md">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Experience.md">Experience</a></p>
+<head>  
 <h1 id="skills">Skills</h1>
   </head>
   <body>
