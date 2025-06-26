@@ -7,9 +7,9 @@
 <body>
 
 <p>
+<hr>
 <h4> Esri Products:</h4> 
 ArcGIS Pro, Arc Enterprise, Arcpy tools, Survey123
-
 </p>
 <img src="https://github.com/max1sing/max1sing/blob/main/print%20tool.png?raw=true" alt="yes" width="700" height="400">
 <p>This tool was created by someone at ADB and it auto populates the grid layers that are needed for a certain area in a job and I've helped improve the usuablilty of the tool for the engineering team</p>
