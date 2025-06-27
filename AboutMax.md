@@ -5,7 +5,7 @@
 <h2>Hey I'm Max Ising.</h2>
 </head>
 <body>
-<img src="https://brand.missouri.edu/wp-content/uploads/2024/11/PrimarySigs-2-1.jpg" alt="yes" width="250" height="145">
+<img src="https://brand.missouri.edu/wp-content/uploads/2024/11/PrimarySigs-2-1.jpg" alt="yes" width="250" height="165">
 <h2>Here are some things about me.</h2>
 <h3>Some of my hobbies</h3>
 <ul>
