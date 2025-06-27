@@ -5,7 +5,7 @@
 <h2>Hey I'm Max Ising.</h2>
 </head>
 <body>
-<img src="https://brand.missouri.edu/wp-content/uploads/2024/11/PrimarySigs-2-1.jpg" alt="yes" width="250" height="165"> <img src="https://www.esri.com/is/image/esri/mts-ypn-swag?qlt=82&ts=1746653656976&fmt=png-alpha&dpr=off" alt="yes" width="200" height="165">
+<img src="https://brand.missouri.edu/wp-content/uploads/2024/11/PrimarySigs-2-1.jpg" alt="yes" width="250" height="165"> <img src="https://www.esri.com/is/image/esri/mts-ypn-swag?qlt=82&ts=1746653656976&fmt=png-alpha&dpr=off" alt="yes" width="300" height="165">
 <h2>Here are some things about me.</h2>
 <h3>Some of my hobbies</h3>
 <ul>
