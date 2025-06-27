@@ -8,7 +8,7 @@
 <p float="left">
 <img src="https://brand.missouri.edu/wp-content/uploads/2024/11/PrimarySigs-2-1.jpg" alt="yes" width="250" height="165" />
 <img src="https://www.esri.com/is/image/esri/mts-ypn-swag?qlt=82&ts=1746653656976&fmt=png-alpha&dpr=off" alt="yes" width="300" height="170" />
-<img src="https://content.energage.com/company-images/SE81436/SE81436_logo_orig.png" alt="yes" width="300" height="170"
+<img src="https://content.energage.com/company-images/SE81436/SE81436_logo_orig.png" alt="yes" width="400" height="170" />
 </p>
 <h2>Here are some things about me.</h2>
 <h3>Some of my hobbies</h3>
