@@ -3,6 +3,7 @@
   <p><a href="./Experience.md">Experience</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Skills.md">Skills</a></p>
 <head>
 <h2>Hey, my name is Max Ising and I'm a senior at the University of Missouri.</h2>
+  <hr>
 </head>
 <body>
 <p float="left">
