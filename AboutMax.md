@@ -2,7 +2,7 @@
 <html>
   <p><a href="./Experience.md">Experience</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Skills.md">Skills</a></p>
 <head>
-<h2>Hello I'm Max Ising and I go to the University of Missouri-Columbia.</h2>
+<h2>Hello I'm Max Ising and I go to the University of Missouri.</h2>
 </head>
 <body>
 <img src="https://brand.missouri.edu/wp-content/uploads/2024/11/PrimarySigs-2-1.jpg" alt="yes" width="280" height="175">
