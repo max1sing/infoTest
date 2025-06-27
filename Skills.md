@@ -20,7 +20,7 @@
 <hr>
 <h4>Projects that I've done in school</h4>
 <img src="https://github.com/max1sing/max1sing/blob/main/landcover.png?raw=true" alt="yes" width="300" height="400">
-<p>This map was completed in my GIS Applications class for the School of Natural Resources.</p>
+<p>Completed in my GIS Applications class for the School of Natural Resources.</p>
 </body>
   
  
