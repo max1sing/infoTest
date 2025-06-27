@@ -3,10 +3,6 @@
 <html>
   
 <p><a href="./AboutMax.md">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Experience.md">Experience</a></p>
-<head>  
-<h1 id="skills">Skills</h1>
-</head>
-
 <body>
 <h2 id="my-coding-skills">Some skills that I've picked up in university and prior.</h2>
 <ul>
