@@ -14,7 +14,7 @@
 <li>Python</li> 
 <li>C++</li>
 <li>Javascript</li>
-<Unix OS>
+<li>Unix OS</li>
 </ul>
 
 <hr>
