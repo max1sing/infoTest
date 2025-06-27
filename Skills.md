@@ -3,8 +3,10 @@
 <html>
   
 <p><a href="./AboutMax.md">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Experience.md">Experience</a></p>
-<body>
+<head>
 <h3 id="my-coding-skills">Here are some skills that I've picked up in university and prior.</h3>
+</head>
+<body>
 <ul>
 <li>ArcGIS Pro</li>
 <li>QGIS</li>
