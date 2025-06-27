@@ -2,8 +2,7 @@
 <html>
   <p><a href="./Experience.md">Experience</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Skills.md">Skills</a></p>
 <head>
-<h2>Hey, my name is Max Ising and I'm a senior at the University of Missouri.</h2>
-  <hr>
+<h2>Hey, my name is Max Ising and I'm a rising senior at the University of Missouri.</h2>
 </head>
 <body>
 <p float="left">
@@ -12,7 +11,7 @@
 <img src="https://content.energage.com/company-images/SE81436/SE81436_logo_orig.png" alt="yes" width="300" height="130" />
 <p>I'm studying Information Technology and Geography, I'm a proud member of Esri YPN, and I work at ADB Companies.</p>
 </p>
-  <hr>
+<h2></h2>
 <h3>Some of my hobbies</h3>
 <ul>
   <li><b>Ice Skating, more specifically playing hockey</b></li>
