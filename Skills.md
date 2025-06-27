@@ -4,7 +4,7 @@
   
 <p><a href="./AboutMax.md">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Experience.md">Experience</a></p>
 <head>
-<h3>Here are some skills that I've picked up in university and prior.</h3>
+<h3>Some basic skills.</h3>
 </head>
 <body>
   
@@ -13,6 +13,8 @@
 <li>QGIS</li>
 <li>Python</li> 
 <li>C++</li>
+<li>Javascript</li>
+<Unix OS>
 </ul>
 
 <hr>
