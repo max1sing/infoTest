@@ -4,7 +4,7 @@
   
 <p><a href="./AboutMax.md">About Me</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="./Experience.md">Experience</a></p>
 <head>
-<h2 id="my-coding-skills">Here are some skills that I've picked up in university and prior.</h2>
+<h3>Here are some skills that I've picked up in university and prior.</h3>
 </head>
 <body>
 <ul>
